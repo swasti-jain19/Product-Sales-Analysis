@@ -1,9 +1,5 @@
 # 📦 Product Sales Analysis Dashboard
 
-## 🧠 About the Dashboard
-
----
-
 ## 📌 Project Overview
 This Power BI dashboard presents a full view of product sales from 2020–2021, analyzing sales distribution by state, region, quarter, product category, and sales method (in-store, online, outlet).
 
