@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This Power BI dashboard presents a full view of product sales from 2020–2021, analyzing sales distribution by state, region, quarter, product category, and sales method (in-store, online, outlet).
 
+- **Overview**
+
+  ![DASHBOARD](Output/first_page.jpg)
+
 ### **Objective:**  
 To answer the question:  
 **"How can a retail company optimize product, regional, and channel performance to increase sales and profitability?"**
@@ -69,10 +73,6 @@ To answer the question:
 ---
 
 ## 📄 Dashboard
-
-- **Overview**
-
-  ![DASHBOARD](Output/first_page.jpg)
 
 - **Sales Analysis**
 
